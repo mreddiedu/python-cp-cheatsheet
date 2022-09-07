@@ -489,6 +489,7 @@ list3 = list1 + list2 # ['a', 'b', 'c', 1, 2, 3]
 Hashtables are implemented with dictionaries
 
 Hashable Keys:    int, float, tuple, bool, string, bytes
+
 Nonhashable Keys: list, set, dict, bytearray.
 
 ```python
